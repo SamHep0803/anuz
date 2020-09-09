@@ -54,4 +54,4 @@ client.on('message', async (message: Message) => {
     }
 });
 
-client.login('NzMwMTc5MjExNzYzMTIyMjA2.XweaNQ.9pKhqpMpyLtT5goFmwL0tIhCqHs');
+client.login('lmao no');
