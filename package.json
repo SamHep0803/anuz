@@ -1,0 +1,16 @@
+{
+  "name": "anuz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "denon run --allow-net --allow-read index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typedoc": "^0.17.8"
+  }
+}
